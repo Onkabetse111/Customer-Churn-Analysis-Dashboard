@@ -7,7 +7,7 @@ The dashboard leverages pivot tables, calculated columns, and interactive visual
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/customerchurndashboard-preview.png)
+![Dashboard Preview](images/customer-churn-dashboard-preview.png)
 
 ---
 
