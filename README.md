@@ -5,6 +5,12 @@ The dashboard leverages pivot tables, calculated columns, and interactive visual
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](images/dashboard-preview.png)
+
+---
+
 ## 🎯 Business Problem
 
 Customer churn poses a significant challenge to businesses, leading to loss of revenue and reduced customer lifetime value. Without understanding why customers leave, organizations struggle to implement effective retention strategies.
